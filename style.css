@@ -17,7 +17,6 @@ body {
 *{
     margin:0;
     padding:0;
-    align-itens:center;
 }
 .principal {
     background-image: url("img/Background.png");
@@ -139,8 +138,6 @@ body {
     .container {
         display: block;
         background-image: none;
-        padding:10%;
-        justify-content:center;
     }
     .container__imagem{
         width: 50vw;
