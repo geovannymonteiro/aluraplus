@@ -138,6 +138,7 @@ body {
     .container {
         display: block;
         background-image: none;
+        align-items: center;
     }
     .container__imagem{
         width: 50vw;
